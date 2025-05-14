@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sndie3
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning Mobile
+- 🌱 I’m currently learning Mobile Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @team0812004@gmail.com
 - 😄 Pronouns: ...
