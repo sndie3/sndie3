@@ -4,13 +4,8 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** with a passion for building robust and scalable applications across both web and mobile platforms. I enjoy tackling complex challenges and constantly expanding my knowledge base.
-
-* 🔭 I'm currently working on **[Briefly mention 1-2 current projects or learning goals]**.
-* 🌱 I'm currently expanding my knowledge in **[e.g., advanced Flutter/Dart, optimizing SQL queries, or cloud services like AWS/Azure]**.
-* 👯 I'm looking to collaborate on **open-source web or mobile projects** where I can contribute across the full stack.
-* 💬 Ask me about **JavaScript, Python, React, and general database design**.
-* ⚡ Fun fact: **[A short, interesting personal detail]**.
+I'm a BSIT (Bachelor of Science in Information Technology) student and self-taught Developer from Cebu, Philippines. 
+My expertise spans both frontend and backend development, with a solid foundation in building Web Technologies, Desktop, and Mobile apps.
 
 ---
 
@@ -25,7 +20,7 @@ I have experience working across a diverse range of technologies, from core web 
 
 ### 📱 Mobile Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=reactnative,flutter,dart,kotlin,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
 </p>
 
 ### 💾 Databases & Backend Tools
