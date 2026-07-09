@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a BSIT (Bachelor of Science in Information Technology) student and self-taught Developer from Cebu, Philippines. 
+I'm a BSIT (Bachelor of Science in Information Technology) Graduate and self-taught Developer from Cebu, Philippines. 
 My expertise spans both frontend and backend development, with a solid foundation in building Web Technologies, Desktop, and Mobile apps.
 
 ---
