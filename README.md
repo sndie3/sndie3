@@ -1,65 +1,77 @@
-# Hey, I'm Sandie Goles 👋
+# Sandie Goles
 
-**Full-Stack Developer · Cebu, Philippines**
+**Full-Stack Developer based in Cebu, Philippines.**
 
-I'm a BSIT graduate and self-taught developer who enjoys building useful things through code. I work across web, mobile, and desktop development, exploring both frontend experiences and backend systems.
+I build applications across web, mobile, and desktop platforms. I'm a BSIT graduate and self-taught developer interested in understanding how software works, from the user interface down to the systems behind it.
 
-I like learning how things work, experimenting with new technologies, and turning ideas into applications that solve real problems. I'm always looking for opportunities to grow, collaborate, and build something meaningful.
+Most of my experience comes from working on personal projects, experimenting with different technologies, and solving problems through development. I enjoy exploring new approaches, learning along the way, and turning ideas into working applications.
 
 ---
 
-## 🧰 Tech Stack
+### Technologies
 
-The tools and technologies I've worked with across different projects.
+A collection of languages, frameworks, and platforms I've used in my projects.
 
-**Frontend & Web Development**
+**Programming Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cpp,dart,kotlin" />
+</p>
+
+**Frontend Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap" />
 </p>
 
 **Backend Development**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,php,cpp" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
 </p>
 
 **Mobile Development**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </p>
 
-**Databases & Developer Tools**
+**Databases & Cloud Platforms**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase" />
+</p>
+
+**Development Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <a href="https://github.com/sndie3">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sndie3&show_icons=true&hide_border=true&theme=transparent" alt="Sandie's GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sndie3&show_icons=true&hide_border=true&theme=transparent" />
   </a>
   <a href="https://github.com/sndie3">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sndie3&hide_border=true&theme=transparent" alt="Sandie's GitHub Streak" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sndie3&hide_border=true&theme=transparent" />
   </a>
 </div>
 
 ---
 
-## 🌐 Find Me Around the Web
+### Get in Touch
 
-I'm always open to connecting with fellow developers, sharing ideas, and exploring new opportunities.
+I'm open to meeting other developers, collaborating on projects, and exploring opportunities in software development.
 
-- **Portfolio:** [portfolio-delta-ivory-dkw73vx0a4.vercel.app](https://portfolio-delta-ivory-dkw73vx0a4.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/sandie-goles-b6641730a](https://www.linkedin.com/in/sandie-goles-b6641730a/)
-- **Email:** [sandiegoles8@gmail.com](mailto:sandiegoles8@gmail.com)
-- **GitHub:** [@sndie3](https://github.com/sndie3)
+- **Portfolio:** https://portfolio-delta-ivory-dkw73vx0a4.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/sandie-goles-b6641730a/
+- **Email:** sandiegoles8@gmail.com
+- **GitHub:** https://github.com/sndie3
 
 ---
 
-*Always learning. Always building. Always improving.* 🚀
+*Building, learning, and figuring things out one project at a time.*
