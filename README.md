@@ -10,6 +10,8 @@ Most of my experience comes from working on personal projects, experimenting wit
 
 ### Technologies
 
+### Technologies
+
 A collection of languages, frameworks, and platforms I've used in my projects.
 
 **Programming Languages**
@@ -21,7 +23,7 @@ A collection of languages, frameworks, and platforms I've used in my projects.
 **Frontend Development**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
 
 **Backend Development**
@@ -33,13 +35,13 @@ A collection of languages, frameworks, and platforms I've used in my projects.
 **Mobile Development**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,reactnative,androidstudio" />
 </p>
 
 **Databases & Cloud Platforms**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase" />
 </p>
 
 **Development Tools**
@@ -47,6 +49,11 @@ A collection of languages, frameworks, and platforms I've used in my projects.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
+**Additional Technologies**
+
+- NativeWind (Tailwind CSS for React Native)
+
 
 ---
 
