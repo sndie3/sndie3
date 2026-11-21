@@ -1,52 +1,65 @@
-# Hi there! I'm Sandie Goles! 👋
+# Hey, I'm Sandie Goles 👋
+
+**Full-Stack Developer · Cebu, Philippines**
+
+I'm a BSIT graduate and self-taught developer who enjoys building useful things through code. I work across web, mobile, and desktop development, exploring both frontend experiences and backend systems.
+
+I like learning how things work, experimenting with new technologies, and turning ideas into applications that solve real problems. I'm always looking for opportunities to grow, collaborate, and build something meaningful.
 
 ---
 
-## 🚀 About Me
+## 🧰 Tech Stack
 
-I'm a BSIT (Bachelor of Science in Information Technology) Graduate and self-taught Developer from Cebu, Philippines. 
-My expertise spans both frontend and backend development, with a solid foundation in building Web Technologies, Desktop, and Mobile apps.
+The tools and technologies I've worked with across different projects.
 
----
+**Frontend & Web Development**
 
-## 🛠️ Skills & Technologies
-
-I have experience working across a diverse range of technologies, from core web development to mobile frameworks and various database solutions.
-
-### 🌐 Web & Core Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,python,php,flask,django,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
-### 📱 Mobile Development
+**Backend Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,php,cpp" />
+</p>
+
+**Mobile Development**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
 </p>
 
-### 💾 Databases & Backend Tools
+**Databases & Developer Tools**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase,git,vscode,postman" />
 </p>
 
 ---
 
-## 📈 My GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-    <a href="https://github.com/sndie3">
-        <img src="https://github-readme-stats.vercel.app/api?username=sndie3&show_icons=true&theme=dark&hide_border=true" alt="Sandie's GitHub Stats" />
-    </a>
-    <a href="https://github.com/sndie3">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sndie3&theme=dark&hide_border=true" alt="Sandie's GitHub Streak" />
-    </a>
+  <a href="https://github.com/sndie3">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sndie3&show_icons=true&hide_border=true&theme=transparent" alt="Sandie's GitHub Stats" />
+  </a>
+  <a href="https://github.com/sndie3">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sndie3&hide_border=true&theme=transparent" alt="Sandie's GitHub Streak" />
+  </a>
 </div>
 
 ---
 
-## 🔗 Get in Touch
+## 🌐 Find Me Around the Web
 
-Feel free to connect with me!
+I'm always open to connecting with fellow developers, sharing ideas, and exploring new opportunities.
 
-* 📧 **Email**: sandiegoles8@gmail.com
-* 🌐 **Portfolio/Website**: https://portfolio-delta-ivory-dkw73vx0a4.vercel.app/
-* 💼 **LinkedIn**: https://www.linkedin.com/in/sandie-goles-b6641730a/
+- **Portfolio:** [portfolio-delta-ivory-dkw73vx0a4.vercel.app](https://portfolio-delta-ivory-dkw73vx0a4.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/sandie-goles-b6641730a](https://www.linkedin.com/in/sandie-goles-b6641730a/)
+- **Email:** [sandiegoles8@gmail.com](mailto:sandiegoles8@gmail.com)
+- **GitHub:** [@sndie3](https://github.com/sndie3)
+
+---
+
+*Always learning. Always building. Always improving.* 🚀
